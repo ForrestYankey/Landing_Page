@@ -48,7 +48,6 @@ button {
 .container1{
     display: flex;  
     padding-top: 100px;
-    align-items: first baseline;
 }
 
 .c1-box1 {
