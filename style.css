@@ -1,0 +1,27 @@
+header, .container1 {
+    background-color: #1f2937;
+}
+
+.main-text, .logo-text {
+ color: #f9faf9;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-text {
+    font: 48px bolder;
+}
+
+.secondary-text, .link {
+    font-size: 18px;
+    color: #e5e7eb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-text {
+    font-size: 24px;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf9;
+}
