@@ -1,4 +1,4 @@
-header, .container1 {
+header, .container1, footer {
     background-color: #1f2937;
 }
 
@@ -25,4 +25,23 @@ header, .container1 {
 button {
     background-color: #3882f6;
     color: #f9faf9;
+}
+
+.container3 {
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+   color: black;
+   font-size: 36px;
+   font-family: "Roboto";
+   font-weight:lighter;
+   font-style: italic;
+}
+
+footer {
+    margin: auto;
+    text-align: center;
+    color: #f9faf9;
+    font-family: "Roboto";
 }
