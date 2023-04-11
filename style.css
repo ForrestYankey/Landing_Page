@@ -45,6 +45,20 @@ button {
     color: #f9faf9;
 }
 
+.container1{
+    display: flex;  
+    padding-top: 100px;
+    align-items: first baseline;
+}
+
+.c1-box1 {
+    margin-left: 200px;
+}
+
+img {
+    margin-right: 200px;
+}
+
 .container3 {
     background-color: #e5e7eb;
 }
