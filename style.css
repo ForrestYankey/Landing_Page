@@ -1,6 +1,6 @@
 header, .container1, footer {
     background-color: #1f2937;
-    font-family: "Roboto";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header {
@@ -27,13 +27,13 @@ header {
 .main-text {
     font-size: 48px;
     font-weight: 900;
-    font-family: "Roboto";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .secondary-text, .link {
     font-size: 18px;
     color: #e5e7eb;
-    font-family: "Roboto";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .logo-text {
@@ -70,12 +70,10 @@ img {
 }
 
 .info-text {
-    font-family: "Roboto";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 36px;
     font-weight: bolder;
 }
-
-
 
 .container2 {
     display: flex;
@@ -97,7 +95,7 @@ img {
 }
 
 .box-text {
-    font-family: "Roboto";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: grey;
     text-align: center;
     width: 150px;
@@ -105,19 +103,27 @@ img {
 
 .container3 {
     background-color: #e5e7eb;
+    padding: 100px 250px;
 }
 
 .quote-text {
-   color: black;
+   color: #1f2937;
    font-size: 36px;
-   font-family: "Roboto";
-   font-weight:lighter;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: light;
    font-style: italic;
 }
 
+.quote-attribution {
+    color: #1f2937;
+   font-size: 24px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bolder;
+   text-align: right;
+}
 footer {
     margin: auto;
     text-align: center;
     color: #f9faf9;
-    font-family: "Roboto";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
