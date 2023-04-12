@@ -164,4 +164,6 @@ footer {
     text-align: center;
     color: #f9faf9;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    font-size: 12px;
 }
